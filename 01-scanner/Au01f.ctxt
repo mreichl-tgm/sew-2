@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=void\ main()
-comment1.params=text\ anfang
-comment1.target=java.lang.String\ wortAb(java.lang.String,\ int)
-numComments=2
